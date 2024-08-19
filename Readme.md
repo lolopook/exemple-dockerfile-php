@@ -1,5 +1,3 @@
-Voici une version corrigée et améliorée du README pour une clarté et une précision accrues :
----
 
 # Exercices de Construction d'un Conteneur
 
@@ -49,4 +47,3 @@ Cette commande démarre un conteneur en mode détaché, mappant le port 80 du co
 - **Non-utilisation de l'utilisateur root** : Exécutez les processus dans le conteneur en tant qu'utilisateur non privilégié pour minimiser les dommages en cas de compromission.
 - **Mise à jour des Images** : Utilisez toujours des images à jour pour bénéficier des derniers correctifs de sécurité.
 
----
